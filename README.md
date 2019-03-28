@@ -306,7 +306,7 @@ function sendMail(HtmlData) {
 ## 安装与使用
 如果你觉得这封邮件的内容适合你发送的对象，可以按照以下步骤，改少量参数即可运行程序；
 
-1. git clone https://github.com/Vincedream/NodeMail
+1. git clone https://github.com/AnHyun/node-email.git
 2. 打开main.js，修改配置项
 
 ``` javascript
@@ -341,4 +341,4 @@ let EmialMinminute= 30;
 ## 最后
 冬天到了，是不是也该用程序员的专业知识给身边的人带来一些温暖呢，源代码与demo已经放到github上，要不试一试？
 
-GitHub：[https://github.com/Vincedream/NodeMail](https://github.com/Vincedream/NodeMail)
+GitHub：[https://github.com/AnHyun/node-email](https://github.com/AnHyun/node-email)
